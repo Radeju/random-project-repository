@@ -7,7 +7,7 @@
         <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" />
     </p>
     <p>
-        <asp:Label ID="Label1" runat="server" Text="My Label updated 2"></asp:Label>
+        <asp:Label ID="Label1" runat="server" Text="My Label updated 3"></asp:Label>
     </p>
     <p>
         &nbsp;</p>
